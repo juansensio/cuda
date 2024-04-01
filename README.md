@@ -19,10 +19,18 @@ CUDA can be installed in multiple ways, here we follow [these steps](https://twi
 - [hello](learn/hello): Hello world in CUDA.
 - [vector](learn/vector): Add two vectors in CUDA.
 - [python](learn/python): Run CUDA alongside Python in Juptyer notebooks.
+- [image processing](learn/image): Image processing in CUDA.
+<!-- - [matrix](learn/matrix): Matrix multiplication in CUDA.
+- pytorch kernels -->
+
 
 ## Projects
 
 TODO
+
+<!-- - game of life 
+- deep learning framework inspired in pytorch
+- fluid simulation -->
 
 ## Resources 
 
