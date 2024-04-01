@@ -16,8 +16,13 @@ CUDA can be installed in multiple ways, here we follow [these steps](https://twi
 
 ## Learning
 
-- [hello_cuda](hello_cuda/README.md): A simple CUDA project to get started with CUDA programming.
+- [hello](hello.cu): A simple CUDA project to get started with CUDA programming.
 
 ## Projects
 
 TODO
+
+## Resources 
+
+- [CUDA MODE](https://github.com/cuda-mode/lectures)
+- [The PMPP book](https://www.amazon.com/dp/0323912311?ref_=cm_sw_r_cp_ud_dp_YVNSMFJMGQ9N457Z8Q6D)
