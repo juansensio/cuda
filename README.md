@@ -14,12 +14,12 @@ CUDA can be installed in multiple ways, here we follow [these steps](https://twi
 6. If required, install pytorch with `conda install pytorch pytorch-cuda=12.1 -c pytorch -c nvidia/label/cuda-12.1.0` (optionally, install `torchvision` also). # no me funciona, da conflicto con paquetes
 7. If required to build other packages, cuda path is in `$CONDA_PREFIX`. -->
 
-## Learning
+## Basics
 
-- [hello](learn/hello): Hello world in CUDA.
-- [vector](learn/vector): Add two vectors in CUDA.
-- [python](learn/python): Run CUDA alongside Python in Juptyer notebooks.
-- [image processing](learn/image): Image processing in CUDA.
+- [hello](basics/hello): Hello world in CUDA.
+- [vector](basics/vector): Add two vectors in CUDA.
+- [python](basics/python): Run CUDA alongside Python in Juptyer notebooks.
+- [image processing](basics/image): Image processing in CUDA.
 <!-- - [matrix](learn/matrix): Matrix multiplication in CUDA.
 - pytorch kernels -->
 
